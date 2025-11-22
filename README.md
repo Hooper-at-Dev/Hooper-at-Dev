@@ -20,7 +20,6 @@
 
 <h3 align="left">🌐 Connect with Me:</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tushar-swarnkar-590815251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-swarnkar-590815251" height="30" width="40" /></a>
 <a href="https://kaggle.com/tusharedithx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tusharedithx" height="30" width="40" /></a>
