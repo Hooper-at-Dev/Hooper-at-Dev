@@ -43,10 +43,11 @@
   <img src="https://img.shields.io/badge/vector_db-%2300A3E0.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/faiss-%23000000.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/pinecone-%230081CB.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=yellow" />
 </p>
-
 
 ---
 
