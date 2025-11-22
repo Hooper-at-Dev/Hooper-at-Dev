@@ -20,18 +20,11 @@
 
 <h3 align="left">🌐 Connect with Me:</h3>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sarthaknsanjeev" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
-  </a>
-
-  <a href="https://kaggle.com/tusharedithx" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" />
-  </a>
-
-  <a href="https://instagram.com/tusharx_edith" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" />
-  </a>
+<a href="https://linkedin.com/in/tushar-swarnkar-590815251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-swarnkar-590815251" height="30" width="40" /></a>
+<a href="https://kaggle.com/tusharedithx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tusharedithx" height="30" width="40" /></a>
+<a href="https://instagram.com/tusharx_edith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharx_edith" height="30" width="40" /></a>
 </p>
 
 
