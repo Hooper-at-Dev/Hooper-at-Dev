@@ -39,12 +39,14 @@
   <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/langchain-1A82FF?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/vector_db-%2300A3E0.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/faiss-%23000000.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/pinecone-%230081CB.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=yellow" />
 </p>
+
 
 ---
 
