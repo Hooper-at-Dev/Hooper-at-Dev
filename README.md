@@ -26,6 +26,7 @@
 <a href="https://instagram.com/tusharx_edith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharx_edith" height="30" width="40" /></a>
 </p>
 
+---
 
 # 🧩 My Tech Ecosystem
 
@@ -45,6 +46,7 @@
   <img src="https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=yellow" />
 </p>
 
+---
 
 # 📊 GitHub Stats
 
