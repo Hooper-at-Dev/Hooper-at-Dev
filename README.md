@@ -73,7 +73,7 @@
 ### 🤖 <b>2. BLUE — Custom LLaMA-3 Style Local LLM</b>
 - Implemented RoPE, KV-cache, tokenizer & streaming decode  
 - Built a full conversational pipeline & WEB-RAG system  
-🔗 https://github.com/Hooper-at-Dev/GenrAi
+🔗 https://github.com/Hooper-at-Dev/BLUE_AI
 
 ---
 
