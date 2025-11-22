@@ -22,7 +22,11 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sarthaknsanjeev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-swarnkar-590815251" height="30" width="40" /></a>
-<a href="mailto:sarthaknsanjeev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:sarthaknsanjeev@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" 
+       alt="gmail" height="30" width="40" />
+</a>
+
 <a href="https://www.instagram.com/nolimit._.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharx_edith" height="30" width="40" /></a>
 </p>
 
