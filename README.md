@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Sanjeev</h1>
 <h3 align="center">Artificial Intelligence Engineer | Full-Stack Developer | LLM & Generative AI Developer</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hooper-at-Dev&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
