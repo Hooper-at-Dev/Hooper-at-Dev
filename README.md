@@ -51,15 +51,6 @@
   <img src="https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=yellow" />
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hooper-at-Dev&theme=dracula&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
 
 # 📊 GitHub Stats
 
@@ -87,13 +78,6 @@
 - Implemented RoPE, KV-cache, tokenizer & streaming decode  
 - Built a full conversational pipeline & WEB-RAG system  
 🔗 https://github.com/Hooper-at-Dev/GenrAi
-
----
-
-### 🖼️ <b>3. bgZap — AI Background Remover (Production)</b>
-- Image segmentation + Next.js + AWS  
-- Built a full payment system with PayPal API  
-🔗 https://bgzap.com  
 
 ---
 
