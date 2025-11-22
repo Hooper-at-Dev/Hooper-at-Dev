@@ -81,7 +81,6 @@
 ✔ AI Engineer with 2+ years hands-on experience  
 ✔ Expert in LLMs, Transformers, CNNs, RAG, Vector DBs  
 ✔ Full-Stack Developer (React, Next.js, Node.js, SQL, AWS)  
-✔ Published research (94% CNN accuracy on genre classification)  
 ✔ Junior Software Developer @ Walsis eConnect India  
 
 ---
