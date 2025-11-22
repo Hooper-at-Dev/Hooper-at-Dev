@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarthak Sanjeev (Hooper-at-Dev)</h1>
+<h1 align="center">Hi 👋, I'm Sarthak Sanjeev</h1>
 <h3 align="center">Artificial Intelligence Engineer | Full-Stack Developer | LLM & Generative AI Developer</h3>
 
 <p align="left">
