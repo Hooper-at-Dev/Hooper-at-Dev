@@ -27,7 +27,7 @@
 </p>
 
 
-# 🧩 My Tech Ecosystem (Sticker Mode!)
+# 🧩 My Tech Ecosystem
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
